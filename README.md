@@ -43,11 +43,11 @@ This repository contains the source code for a "ticket" command that can be adde
 
 ## Screenshots
 
-1. ![Screenshot 1](https://who.likes-throwing.rocks/64Ej9js7u.png)
-2. ![Screenshot 2](https://who.likes-throwing.rocks/64Ej5Roab.png)
+1. ![Screenshot 1](https://who.likes-throwing.rocks/64EiPhiCq.png)
+2. ![Screenshot 2](https://who.likes-throwing.rocks/64EiScP2d.png)
 3. ![Screenshot 3](https://who.likes-throwing.rocks/64EiZWgfA.png)
-4. ![Screenshot 4](https://who.likes-throwing.rocks/64EiScP2d.png)
-5. ![Screenshot 5](https://who.likes-throwing.rocks/64EiPhiCq.png)
+4. ![Screenshot 4]https://who.likes-throwing.rocks/64Ej5Roab.png)
+5. ![Screenshot 5](https://who.likes-throwing.rocks/64Ej9js7u.png) 
 
 ## Contributing
 
